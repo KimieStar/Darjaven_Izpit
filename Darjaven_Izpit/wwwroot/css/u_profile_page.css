@@ -1,0 +1,195 @@
+﻿#user-body{
+    background: #fbffeb;
+    z-index: 1;
+}
+#userProfilePfpPlaceHolder{
+    top: 30px;
+    height: 263px;
+    position: relative;
+    left: 13%;
+    user-select: none;
+    -webkit-user-drag: none;
+    border-radius: 8px;
+}
+
+#userSideBar{
+    background: #82a7bc;
+    width: 385px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    user-select: none;
+    overflow: auto;
+}
+
+#logoutButton{
+    position: relative;
+}
+
+#sideBarLine{
+    position: relative;
+    height: 12px;
+    background: #5e869c;
+    border: none;
+    top: 35px;
+}
+
+#buttonForm{
+    width: 5.12%;
+    margin-left: 95.8%;
+    margin-top: 16px;
+}
+
+#usernamePlaceholder{
+    position: absolute;
+    font-size: 23px;
+    left: 60%;
+}
+
+#usernameIdPlaceholder{
+    position: absolute;
+    font-size: 23px;
+    left: 20%;
+}
+
+#userInfoDiv{
+    position: relative;
+    top: 3.5%;
+}
+
+#crudOperationsDiv{
+    position: absolute;
+    left: 89%;
+}
+
+#crudOperationsButton{
+    color: #ffffff;
+}
+
+#crudModal{
+    width: 800px;
+    height: 400px;
+    right: 20%;
+    top: 65px;
+}
+
+#createButton{
+    left: 2%;
+}
+
+#readButton{
+    left: 2%;
+}
+
+#updateButton{
+    left: 2%;
+}
+
+#deleteButton{
+    left: 2%;
+}
+
+#createModal{
+    width: 400px;
+    height: 250px;
+    left: 30%;
+    top: 65px;
+}
+
+#createModalUsernameInput{
+    
+}
+
+#createModalPasswordInput{
+    
+}
+
+#createModalUsernameDiv{
+    left: 5%;
+    position: relative;
+}
+
+#createModalPasswordDiv{
+    left: 6.4%;
+    top: 4%;
+    position: relative;
+}
+
+#usersTable{
+    left: 740px;
+    position: absolute;
+    top: 18px;
+}
+
+#tableusers{
+    background: beige;
+    width: 600px;
+    left: -167px;
+    top: 66px;
+    position: absolute;
+}
+
+#userstableLabel{
+    position: relative;
+    font-size: 35px;
+    left: -163px;
+}
+
+#eventTable{
+    left: 740px;
+    position: absolute; 
+    top: 262px;
+}
+
+#tableevents{
+    background: beige;
+    width: 600px;
+    left: -167px;
+    top: 66px;
+    position: absolute;
+}
+
+#eventtableLabel{
+    position: relative;
+    font-size: 35px;
+    left: -163px;
+}
+
+
+
+
+#ticketTable{
+    left: 740px;
+    position: absolute;
+    top: 503px;
+}
+
+#tabletickets{
+    background: beige;
+    width: 600px;
+    left: -167px;
+    top: 66px;
+    position: absolute;
+}
+
+#tickettableLabel{
+    position: relative;
+    font-size: 35px;
+    left: -163px;
+}
+
+#modalUserCreateLabel{
+    font-size: 20px;
+}
+
+#crudEventOP{
+    top: 22px;
+    position: relative;
+}
+
+#crudTicketOP{
+    top: 44px;
+    position: relative;
+}
